@@ -2,3 +2,7 @@ link para download do git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 link para documentacao do git: https://git-scm.com/doc
+Git é uma ferramenta de controle de versão distribuida
+
+Link para inscricao no decola tech: https://www.dio.me/bootcamp/decola-tech-2a-edicao
+Decola tech é um bootcamp de qualificação da DIO em parceria com a Avanade
